@@ -17,4 +17,4 @@ class Solution:
             else:
                 ans += m[s[i]]
         
-        return ans
+        return ansn
