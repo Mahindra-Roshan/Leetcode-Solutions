@@ -3,7 +3,5 @@ class Solution:
         sumx = 0
         for i in derived:
             sumx^=i
-        if sumx ==0:
-            return True
-        else:
-            return False
+        return sumx ==0
+            
