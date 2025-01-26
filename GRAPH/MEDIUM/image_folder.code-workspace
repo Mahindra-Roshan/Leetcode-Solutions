@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../unet new/Unet_for_Stegnography/image_folder"
+		},
+		{
+			"path": "../../../../unet new/Unet_for_Stegnography/text_folder"
+		}
+	]
+}
